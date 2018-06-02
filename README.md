@@ -5,4 +5,5 @@ Women At Work is a website that allows women to look for how well certain compan
 As ambitious women, we have seen the barriers to long-term job satisfaction from our peers, mentors, and role models. As we, too, begin to enter the world of employment, we see a deep need to understand the work environment for women in various industries and companies.
 
 ### Homepage
-(![Optional Text](https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/homepage.png))
+The homepage displays a table of the rankings of various companies based on their scores. 
+(![Optional Text] https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/homepage.png)
