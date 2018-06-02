@@ -6,4 +6,4 @@ As ambitious women, we have seen the barriers to long-term job satisfaction from
 
 ### Homepage
 The homepage displays a table of the rankings of various companies based on their scores. 
-(![Optional Text] https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/homepage.png)
+(![Optional Text] (https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/homepage.png))
