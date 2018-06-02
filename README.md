@@ -8,4 +8,12 @@ As ambitious women, we have seen the barriers to long-term job satisfaction from
 Displays the ratings of companies based on their scores
 ![Alt text](https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/homepage.png)
 
+### Search
+Search for companies of interest to the user
+![Alt text](https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/searchbar.png)
+
+### Results
+Allows the user to view the score and breakdown of each company's policy towards women. 
+![Alt text](https://github.com/sr334/WomenAtWork/blob/master/pearlhacks2018/images/companyList.png)
+
 
