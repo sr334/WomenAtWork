@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.19/c3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.19/c3.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <title>Filler </title>
+</head>
+  <body>
+    <div class="title">
+      Women at Work
+    </div>
+    <div class="searchBarDiv">
+      <input id="searchBar" class="searchBar" type="text" list="companyList" oninput="makeCompanyName()">
+      <datalist id="companyList">
+      </datalist>
+    </div>
+    <div id="bigDiv" class="bigDiv">
+      <div id="companyDiv" class="companyDiv"></div>
+      <div id="rankDiv" class="rankDiv"></div>
+    </div>
+
+    <div id="container" class="container">
+      <div id="row" class="row">
+        <div class="col-sm-6">
+          <div id="criteria"> </div>
+        </div>
+        <div class="col-sm-6">
+          <div id="wRankBox">
+          </div>
+        </div>
+    </div>
+    </div>
+
+    <h1>Companies Ranked</h1>
+  <table id="womensList">
+    <thead>
+      <tr>
+        <th>Company Name</th>
+        <th>Ranking</th>
+      </tr>
+    </thead>
+
+    <tbody id="womensListBody"></tbody>
+  </table>
+
+
+
+  </body>
+  <script src="script.js"></script>
+</html>
