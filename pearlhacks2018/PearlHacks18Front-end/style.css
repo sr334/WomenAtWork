@@ -1,0 +1,69 @@
+body{
+  background-color: #c4e7ed !important;
+}
+
+.searchBar{
+  font-size: 32px;
+  color: black;
+  width: 100%;
+  border: solid black 3px;
+}
+
+.searchBarDiv{
+  margin: auto;
+  width: 50%;
+}
+
+.title{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 52px;
+}
+
+table#womensList tr.odd {
+   background-color: #EEF1F6;
+}
+table#womensList tr.even {
+   background-color: #FFFFFF;
+}
+.bigDiv{
+  padding-top: 50px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  margin: auto;
+  width: 50%;
+}
+.companyDiv{
+  width: 50%;
+  font-size: 50px;
+
+}
+.rankDiv{
+  padding-top: 50px;
+  width: 100%;
+  font-size: 50px;
+  text-align: right;
+
+}
+
+
+.criteria{
+  text-align: left;
+}
+
+.wRankBox{
+  text-align: right;
+}
+
+html{
+  padding: 20px;
+}
+
+#wRankBox{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+#wRank{
+    font-size: 75px;
+}
